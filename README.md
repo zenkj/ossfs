@@ -1,0 +1,2 @@
+# ossfs
+使用FUSE将阿里云oss对象存储映射到linux文件系统中
